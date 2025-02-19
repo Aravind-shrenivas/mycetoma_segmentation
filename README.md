@@ -40,6 +40,6 @@ This project focuses on **automated classification and segmentation of Mycetoma 
 - **Matplotlib & Seaborn** – Visualizations.  
 - **Google Colab & AWS** – Model training and deployment.  
 
-##Contributors
+## Contributors
 - Aravind Shrenivas Murali | University of Arizona
 - Dr. Eung-Joo Lee | Research Advisor
